@@ -1,0 +1,65 @@
+.navbar{
+    display: flex;
+   
+    height:50px;
+    
+    justify-content: space-between;
+    background-image:url(https://tse1.mm.bing.net/th?id=OIP.pzfWa5AqlfRTH-aAKiNmdAHaHS&pid=Api&P=0&h=180);
+    background-size: 100px;
+    
+}   
+.title{
+    display: flex;
+    justify-content: center;
+    height: 9em;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.about{
+    display: flex;
+    
+}
+.info, .gg, .SHOP {
+    padding: 15px; /
+    border: 1px solid black; /
+}
+.ghosts{
+justify-content: center;
+display: flex;
+
+
+}
+
+
+
+
+body{
+    background-image: url(http://www.psdgraphics.com/file/old-hazard-stripes.jpg);
+    background-size: 220vh;
+    margin:0;
+
+}
+.heros{
+    display: flex;
+    justify-content: center;
+
+}
+.name{
+    font-size: 80px;
+    color: green;
+    text-underline-offset: black;
+}
+.signup-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+   
+}
+
+.signup-button:hover {
+    background-color: #0056b3;
+}
